@@ -58,22 +58,21 @@
     <tspan x="490" y="160" class="keyColor">Languages</tspan><tspan>: </tspan><tspan class="valueColor">Python, SQL, HTML, JavaScript</tspan>
     <tspan x="490" y="182" class="keyColor">Frameworks</tspan><tspan>: </tspan><tspan class="valueColor">scikit-learn, PyTorch, TensorFlow, YOLO, OpenCV</tspan>
 
-    <tspan x="490" y="220" class="keyColor">Featured Projects</tspan>
-    <tspan x="490" y="242" class="commentColor">────────────────────────</tspan>
-    <tspan x="490" y="264" class="accentColor">1.</tspan><tspan> </tspan><tspan class="valueColor">Predicting Diabetes Risk Using Machine Learning</tspan>
-    <tspan x="490" y="286" class="accentColor">2.</tspan><tspan> </tspan><tspan class="valueColor">Wine Segmentation and Classification Using Machine Learning</tspan>
-    <tspan x="490" y="308" class="accentColor">3.</tspan><tspan> </tspan><tspan class="valueColor">Wine Price Prediction Using Regression Modelling</tspan>
+    <tspan x="490" y="230" class="keyColor">Featured Projects</tspan>
+    <tspan x="490" y="252" class="commentColor">────────────────────────</tspan>
+    <tspan x="490" y="274" class="accentColor">1.</tspan><tspan> </tspan><tspan class="valueColor">Predicting Diabetes Risk Using Machine Learning</tspan>
+    <tspan x="490" y="296" class="accentColor">2.</tspan><tspan> </tspan><tspan class="valueColor">Wine Segmentation and Classification Using Machine Learning</tspan>
+    <tspan x="490" y="318" class="accentColor">3.</tspan><tspan> </tspan><tspan class="valueColor">Wine Price Prediction Using Regression Modelling</tspan>
 
-    <tspan x="490" y="346" class="keyColor">Interests</tspan><tspan>: </tspan><tspan class="valueColor">Customer Behaviour, Financial Modelling, Data Products</tspan>
-    <tspan x="490" y="368" class="keyColor">Current Goal</tspan><tspan>: </tspan><tspan class="valueColor">Transitioning into a Data Scientist role</tspan>
+    <tspan x="490" y="356" class="keyColor">Interests</tspan><tspan>: </tspan><tspan class="valueColor">Customer Behaviour, Financial Modelling, Data Products</tspan>
+    <tspan x="490" y="378" class="keyColor">Current Goal</tspan><tspan>: </tspan><tspan class="valueColor">Transitioning into a Data Scientist role</tspan>
 
-    <tspan x="490" y="406" class="keyColor">Contact</tspan>
-    <tspan x="490" y="428" class="commentColor">────────────────────────</tspan>
+    <tspan x="490" y="426" class="keyColor">Contact</tspan>
+    <tspan x="490" y="448" class="commentColor">────────────────────────</tspan>
   </text>
 
-  <text x="490" y="450">
-    <tspan x="490" y="450" class="keyColor">LinkedIn</tspan><tspan>: </tspan><tspan class="valueColor">linkedin.com/in/smbannister</tspan>
-    <tspan x="490" y="474" class="keyColor">GitHub</tspan><tspan>: </tspan><tspan class="valueColor">github.com/stephen-bannister</tspan>
-    <tspan x="490" y="498" class="keyColor">email</tspan><tspan>: </tspan><tspan class="valueColor">stephen.bannister@hotmail.com</tspan>
+  <text x="490" y="470">
+    <tspan x="490" y="470" class="keyColor">LinkedIn</tspan><tspan>: </tspan><tspan class="valueColor">linkedin.com/in/smbannister</tspan>
+    <tspan x="490" y="495" class="keyColor">GitHub</tspan><tspan>: </tspan><tspan class="valueColor">github.com/stephen-bannister</tspan>
   </text>
 </svg>
