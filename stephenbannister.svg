@@ -1,65 +1,79 @@
-<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1105px" height="550px" font-size="16px">
-<ns0:style>
-.keyColor {fill: #953800;}
-.valueColor {fill: #0a3069;}
-.addColor {fill: #1a7f37;}
-.delColor {fill: #cf222e;}
-.commentColor {fill: #8b949e;}
-text, tspan {white-space: pre;}
-</ns0:style>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1100"
+     height="510"
+     viewBox="0 0 1100 510"
+     font-family="Andale Mono, AndaleMono, Consolas, monospace"
+     font-size="16">
 
-<ns0:rect width="1100px" height="530px" fill="#f6f8fa" rx="15" />
+  <style>
+    .bg { fill: #f6f8fa; }
+    .border { fill: none; stroke: #d0d7de; stroke-width: 1; }
+    .title { fill: #24292f; font-weight: 700; }
+    .keyColor { fill: #953800; }
+    .valueColor { fill: #0a3069; }
+    .commentColor { fill: #57606a; }
+    .accentColor { fill: #1a7f37; }
+    text, tspan { white-space: pre; }
+  </style>
 
-<ns0:text x="15" y="30" fill="#24292f" class="ascii">
-<ns0:tspan x="15" y="30">                ..-+#@@@@@@%*+-..                   </ns0:tspan>
-<ns0:tspan x="15" y="50">              ..=%@@@@@@@@@@@@@#-..                 </ns0:tspan>
-<ns0:tspan x="15" y="70">             .-#@@@@@@@@@@@@@@@@@*:.                </ns0:tspan>
-<ns0:tspan x="15" y="90">            .=%@@@@@@%%%##*****#%%*..               </ns0:tspan>
-<ns0:tspan x="15" y="110">            -%@@@#**+++=========+#%=.              </ns0:tspan>
-<ns0:tspan x="15" y="130">            .*@@@#*+++++==========+%*.             </ns0:tspan>
-<ns0:tspan x="15" y="150">            .#@@@#++++++===========%=.             </ns0:tspan>
-<ns0:tspan x="15" y="170">           ..#@@#+*#*****++=++**+++*:.             </ns0:tspan>
-<ns0:tspan x="15" y="190">           .=*%%*+**##%##*+++*##*+=+*:             </ns0:tspan>
-<ns0:tspan x="15" y="210">           .+**#+++++*****+++++++===+-             </ns0:tspan>
-<ns0:tspan x="15" y="230">           .-+***+++++++**+++++======:             </ns0:tspan>
-<ns0:tspan x="15" y="250">            .:=*****+++****+++++====-.             </ns0:tspan>
-<ns0:tspan x="15" y="270">              .+**************+++++-               </ns0:tspan>
-<ns0:tspan x="15" y="290">               -*************+**+++:               </ns0:tspan>
-<ns0:tspan x="15" y="310">               .*##****++***++++++-.               </ns0:tspan>
-<ns0:tspan x="15" y="330">               .=#####****++++***-.                </ns0:tspan>
-<ns0:tspan x="15" y="350">              .:=*##%%##********:.                 </ns0:tspan>
-<ns0:tspan x="15" y="370">            .-%*==+**#######**+=..                 </ns0:tspan>
-<ns0:tspan x="15" y="390">         ..:*@@%+===++**+++++++-=:..               </ns0:tspan>
-<ns0:tspan x="15" y="410">      ..:+#@@@@@#====--=++++++--*@%*=-..           </ns0:tspan>
-<ns0:tspan x="15" y="430">   ...=#@@@@@@@@@#+==----+*#*++=+@@@@@@#+-....     </ns0:tspan>
-<ns0:tspan x="15" y="450"> .-+#@@@@@@@@@@@@@#+==+*####****+@@@@@@@@@@%#+-..  </ns0:tspan>
-<ns0:tspan x="15" y="470"> %@@@@@@@@@@@@@@@@@*+=++*####*+=-+@@@@@@@@@@@@@+.  </ns0:tspan>
-<ns0:tspan x="15" y="490"> %@@@@@@@@@@@@@@@@@%*++++*#%#*+=-=#@@@@@@@@@@@@@-. </ns0:tspan>
-<ns0:tspan x="15" y="510"> +******************=---===++==-::-*************-. </ns0:tspan>
-</ns0:text>
+  <rect x="10" y="10" width="1080" height="500" rx="16" class="bg" />
+  <rect x="10" y="10" width="1080" height="500" rx="16" class="border" />
 
-<ns0:text x="470" y="30" fill="#24292f">
-<ns0:tspan x="470" y="30">stephen@bannister</ns0:tspan>
-<ns0:tspan x="470" y="50">——————</ns0:tspan>
-<ns0:tspan x="470" y="70" class="keyColor">OS</ns0:tspan>: <ns0:tspan class="valueColor">Windows 11 Pro, iOS</ns0:tspan>
-<ns0:tspan x="470" y="90" class="keyColor">Uptime</ns0:tspan>: <ns0:tspan class="valueColor">48 years, 3 months</ns0:tspan>
-<ns0:tspan x="470" y="110" class="keyColor">Host</ns0:tspan>: <ns0:tspan class="valueColor">Sheffield Hallam University</ns0:tspan>
-<ns0:tspan x="470" y="130" class="keyColor">Kernel</ns0:tspan>: <ns0:tspan class="valueColor">MSc Computer Science with Artificial Intelligence</ns0:tspan>
-<ns0:tspan x="470" y="150" class="keyColor">IDE</ns0:tspan>: <ns0:tspan class="valueColor">VS Code version 1.95.3</ns0:tspan>
-<ns0:tspan x="470" y="190" class="keyColor">Languages</ns0:tspan>.<ns0:tspan class="keyColor">Programming</ns0:tspan>: <ns0:tspan class="valueColor">Python</ns0:tspan>
-<ns0:tspan x="470" y="210" class="keyColor">Languages</ns0:tspan>.<ns0:tspan class="keyColor">Computer</ns0:tspan>: <ns0:tspan class="valueColor">HTML, CSS</ns0:tspan>
-<ns0:tspan x="470" y="230" class="keyColor">Languages</ns0:tspan>.<ns0:tspan class="keyColor">Real</ns0:tspan>: <ns0:tspan class="valueColor">English</ns0:tspan>
-<ns0:tspan x="470" y="270" class="keyColor">Hobbies</ns0:tspan>.<ns0:tspan class="keyColor">Software</ns0:tspan>: <ns0:tspan class="valueColor">Neural Networks, Social Media Tools</ns0:tspan>
-<ns0:tspan x="470" y="290" class="keyColor">Hobbies</ns0:tspan>.<ns0:tspan class="keyColor">Hardware</ns0:tspan>: <ns0:tspan class="valueColor">Raspberry Pi Builds, High Performance PC Builds</ns0:tspan>
-<ns0:tspan x="470" y="330" class="keyColor">Contact</ns0:tspan>:
-<ns0:tspan x="470" y="350">——————</ns0:tspan>
-<ns0:tspan x="470" y="370" class="keyColor">Email</ns0:tspan>: <ns0:tspan class="valueColor">stephen@piroma.co.uk</ns0:tspan>
-<ns0:tspan x="470" y="390" class="keyColor">LinkedIn</ns0:tspan>: <ns0:tspan class="valueColor">smbannister</ns0:tspan>
-<ns0:tspan x="470" y="410" class="keyColor">Discord</ns0:tspan>: <ns0:tspan class="valueColor">nope</ns0:tspan>
-<ns0:tspan x="470" y="450" class="keyColor">GitHub Stats</ns0:tspan>:
-<ns0:tspan x="470" y="470">——————</ns0:tspan>
-<ns0:tspan x="470" y="490" class="keyColor">Repos</ns0:tspan>: <ns0:tspan class="valueColor">1</ns0:tspan> {<ns0:tspan class="keyColor">Contributed</ns0:tspan>: <ns0:tspan class="valueColor">0</ns0:tspan>} | <ns0:tspan class="keyColor">Commits</ns0:tspan>: <ns0:tspan class="valueColor">30</ns0:tspan> | <ns0:tspan class="keyColor">Stars</ns0:tspan>: <ns0:tspan class="valueColor">0</ns0:tspan>
-<ns0:tspan x="470" y="510" class="keyColor">Followers</ns0:tspan>: <ns0:tspan class="valueColor">0</ns0:tspan> | <ns0:tspan class="keyColor">Lines of Code</ns0:tspan>: <ns0:tspan class="valueColor">0</ns0:tspan> (<ns0:tspan class="addColor">TBC++</ns0:tspan>, <ns0:tspan class="delColor">TBC--</ns0:tspan>)
-</ns0:text>
+  <!-- Left ASCII art -->
+  <text x="24" y="38" fill="#24292f">
+    <tspan x="24" y="38">                ..-+#@@@@@@%*+-..                   </tspan>
+    <tspan x="24" y="58">              ..=%@@@@@@@@@@@@@#-..                 </tspan>
+    <tspan x="24" y="78">             .-#@@@@@@@@@@@@@@@@@*:.                </tspan>
+    <tspan x="24" y="98">            .=%@@@@@@%%%##*****#%%*..               </tspan>
+    <tspan x="24" y="118">            -%@@@#**+++=========+#%=.               </tspan>
+    <tspan x="24" y="138">            .*@@@#*+++++==========+%*.              </tspan>
+    <tspan x="24" y="158">            .#@@@#++++++===========%=.              </tspan>
+    <tspan x="24" y="178">           ..#@@#+*#*****++=++**+++*:.              </tspan>
+    <tspan x="24" y="198">           .=*%%*+**##%##*+++*##*+=+*:              </tspan>
+    <tspan x="24" y="218">           .+**#+++++*****+++++++===+-              </tspan>
+    <tspan x="24" y="238">           .-+***+++++++**+++++======:              </tspan>
+    <tspan x="24" y="258">            .:=*****+++****+++++====-.              </tspan>
+    <tspan x="24" y="278">              .+**************+++++-                </tspan>
+    <tspan x="24" y="298">               -*************+**+++:                </tspan>
+    <tspan x="24" y="318">               .*##****++***++++++-.                </tspan>
+    <tspan x="24" y="338">               .=#####****++++***-.                 </tspan>
+    <tspan x="24" y="358">              .:=*##%%##********:.                  </tspan>
+    <tspan x="24" y="378">            .-%*==+**#######**+=..                  </tspan>
+    <tspan x="24" y="398">         ..:*@@%+===++**+++++++-=:..                </tspan>
+    <tspan x="24" y="418">      ..:+#@@@@@#====--=++++++--*@%*=-..            </tspan>
+    <tspan x="24" y="438"> .-+#@@@@@@@@@@@@@#+==+*####****+@@@@@@@@@@%#+-..   </tspan>
+    <tspan x="24" y="458"> %@@@@@@@@@@@@@@@@@*+=++*####*+=-+@@@@@@@@@@@@@+.   </tspan>
+    <tspan x="24" y="478"> %@@@@@@@@@@@@@@@@@%*++++*#%#*+=-=#@@@@@@@@@@@@@-.  </tspan>
+    <tspan x="24" y="498"> +******************=---===++==-::-*************-.  </tspan>
+  </text>
 
-</ns0:svg>
+  <!-- Right information panel -->
+  <text x="490" y="40">
+    <tspan x="490" y="40" class="title">Stephen Bannister</tspan>
+    <tspan x="490" y="62" class="commentColor">Aspiring Data Scientist | MSc Computer Science &amp; AI</tspan>
+    <tspan x="490" y="84" class="commentColor">Former technology leader building a machine learning portfolio</tspan>
+
+    <tspan x="490" y="116" class="keyColor">Role</tspan><tspan>: </tspan><tspan class="valueColor">Data Science Graduate</tspan>
+    <tspan x="490" y="138" class="keyColor">Focus</tspan><tspan>: </tspan><tspan class="valueColor">Machine Learning, NLP, Computer Vision, Analytics</tspan>
+    <tspan x="490" y="160" class="keyColor">Languages</tspan><tspan>: </tspan><tspan class="valueColor">Python, SQL, HTML, JavaScript</tspan>
+    <tspan x="490" y="182" class="keyColor">Frameworks</tspan><tspan>: </tspan><tspan class="valueColor">scikit-learn, PyTorch, TensorFlow, YOLO, OpenCV</tspan>
+
+    <tspan x="490" y="220" class="keyColor">Featured Projects</tspan>
+    <tspan x="490" y="242" class="commentColor">────────────────────────</tspan>
+    <tspan x="490" y="264" class="accentColor">1.</tspan><tspan> </tspan><tspan class="valueColor">Predicting Diabetes Risk Using Machine Learning</tspan>
+    <tspan x="490" y="286" class="accentColor">2.</tspan><tspan> </tspan><tspan class="valueColor">Wine Segmentation and Classification Using Machine Learning</tspan>
+    <tspan x="490" y="308" class="accentColor">3.</tspan><tspan> </tspan><tspan class="valueColor">Wine Price Prediction Using Regression Modelling</tspan>
+
+    <tspan x="490" y="346" class="keyColor">Interests</tspan><tspan>: </tspan><tspan class="valueColor">Customer Behaviour, Financial Modelling, Data Products</tspan>
+    <tspan x="490" y="368" class="keyColor">Current Goal</tspan><tspan>: </tspan><tspan class="valueColor">Transitioning into a Trainee Data Scientist role</tspan>
+
+    <tspan x="490" y="406" class="keyColor">Contact</tspan>
+    <tspan x="490" y="428" class="commentColor">────────────────────────</tspan>
+  </text>
+
+  <text x="490" y="450">
+    <tspan x="490" y="450" class="keyColor">LinkedIn</tspan><tspan>: </tspan><tspan class="valueColor">linkedin.com/in/smbannister</tspan>
+    <tspan x="490" y="474" class="keyColor">GitHub</tspan><tspan>: </tspan><tspan class="valueColor">github.com/stephen-bannister</tspan>
+    <tspan x="490" y="498" class="keyColor">email</tspan><tspan>: </tspan><tspan class="valueColor">stephen.bannister@hotmail.com</tspan>
+  </text>
+</svg>
