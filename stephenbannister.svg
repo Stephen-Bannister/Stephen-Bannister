@@ -50,7 +50,7 @@
   <!-- Right information panel -->
   <text x="490" y="40">
     <tspan x="490" y="40" class="title">Stephen Bannister</tspan>
-    <tspan x="490" y="62" class="commentColor">Aspiring Data Scientist | MSc Computer Science &amp; AI</tspan>
+    <tspan x="490" y="62" class="commentColor">Aspiring Data Scientist + AI Engineer | MSc Computer Science &amp; AI</tspan>
     <tspan x="490" y="84" class="commentColor">Former technology leader building a machine learning portfolio</tspan>
 
     <tspan x="490" y="116" class="keyColor">Role</tspan><tspan>: </tspan><tspan class="valueColor">Data Science, Machine Learning and AI Graduate</tspan>
